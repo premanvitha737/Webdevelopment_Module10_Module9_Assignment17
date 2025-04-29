@@ -1,0 +1,29 @@
+/* src/components/AudioRecorder.css */
+.audio-recorder {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .audio-recorder button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .audio-recorder button:hover {
+    background-color: #0056b3;
+  }
+  
+  .audio-recorder .error {
+    color: red;
+    margin: 10px 0;
+  }
+  
+  .audio-recorder .playback {
+    margin-top: 20px;
+  }
+  
